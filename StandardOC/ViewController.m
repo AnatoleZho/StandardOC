@@ -49,6 +49,10 @@
     
     ChenPeople *chen = [[ChenPeople alloc] init];
     chen.lastName = @"";
+    
+    
+    
+    
 }
 
 
